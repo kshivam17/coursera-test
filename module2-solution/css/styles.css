@@ -1,6 +1,7 @@
 * {
   box-sizing: border-box;
   font-family: "Times New Roman", Times, serif;
+  overflow: auto;
 }
 
 .head {
@@ -71,6 +72,7 @@
   text-align: center;
   color: white;
   font-size: 125%;
+  height: 2.5em;
   padding-top: 0.5em;
   padding-bottom: 0.5em;
   padding-left: 1em;

@@ -71,7 +71,10 @@
   text-align: center;
   color: white;
   font-size: 125%;
-  width: 50%;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  padding-left: 1em;
+  padding-right: 1em;
   border: 1px solid black;
   position: absolute;
   right: 0px;
@@ -89,6 +92,8 @@
   background-color: deeppink;
 }
 
+
 .content {
   margin-top: 2em;
+  padding: 1.5em;
 }
